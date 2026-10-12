@@ -134,17 +134,17 @@ Professional development experience involving a facility management system and b
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=75E0BB&icon_color=75E0BB&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dednum&show_icons=true&hide_border=true&bg_color=0D1117&title_color=75E0BB&icon_color=75E0BB&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=75E0BB&text_color=C9D1D9" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dednum&layout=compact&hide_border=true&bg_color=0D1117&title_color=75E0BB&text_color=C9D1D9" alt="Most used programming languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=75E0BB&line=75E0BB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dednum&bg_color=0D1117&color=75E0BB&line=75E0BB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="95%" alt="GitHub profile contribution summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dednum&theme=github_dark" width="95%" alt="GitHub profile contribution summary" />
 
 </div>
 

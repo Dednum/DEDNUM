@@ -11,7 +11,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-143D35?style=for-the-badge&logo=vercel&logoColor=75E0BB)](https://anugerahalambatangsi.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Repositories-161B22?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Repositories-161B22?style=for-the-badge&logo=github)](https://github.com/Dednum)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-143D35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
@@ -170,9 +170,9 @@ I'm interested in connecting with developers, collaborating on meaningful projec
 
 **Have an interesting project in mind? Let's build something useful.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dednum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-syahmi-6a5538293/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](anisesiajik@gmail.com)
 
 <br/>
 
